@@ -1,2 +1,2 @@
-# unity3d-learning
-pml class
+这是一个测试反应时间的小游戏，游戏实际内容请观看同目录下的mp4演示视频。
+代码请看clock.cs
